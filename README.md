@@ -14,7 +14,7 @@ Make a copy of this repository in your Github account. You can do so by clicking
 <br>
 
 #### Step 2
-Once a copy of the repository is forked to your Github account, you can copy the repository HTTP URL, such as `https://github.com/YOUR_ACCOUNT_NAME/nd035-C2-Web-Services-and-APIs-Exercises-and-Project-Starter.git`
+Once a copy of the repository is forked to your Github account, you can copy the repository HTTP URL, such as `https://github.com/Amal-AlAbbas/BackendCarAPIs.git`
 
 
 Now, you will need to clone (download) the repository locally in your system. There are two ways to clone this repository locally (choose any one):
